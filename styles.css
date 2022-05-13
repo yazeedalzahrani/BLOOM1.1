@@ -15,7 +15,9 @@
     background: #2a2e32;
     height: 100%;
   }
-  
+  h1,h5{
+      color: aqua;
+  }
   .text-small {
     font-size: 0.9rem;
   }
