@@ -63,3 +63,18 @@
 .container{
     margin-top:100px;
 }
+
+.card{
+    
+  border:none;
+}
+
+.user-content p{
+  margin-top:5px;
+  font-size:12px;
+}
+
+
+.ratings i{
+  color:blue;
+}
